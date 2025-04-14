@@ -1,0 +1,14 @@
+source: /
+collections_config:
+  src_content_showcase:
+    path: src/content/showcase
+    name: Src Content Showcase
+    icon: content_paste
+paths:
+  static: public
+  uploads: public/uploads
+timezone: America/Chicago
+markdown:
+  engine: commonmark
+  options:
+    gfm: true
